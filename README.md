@@ -1,4 +1,5 @@
-# Text-Analytics-Mining-in-Job-Postings
-In this project, I analyzed a dataset composed by job postings in order to discover useful information regarding a specific job title through various text analytics techniques. The job title and the location associated with it, used to gather the job posting descriptions, were Data Scientist and Los Angeles respectively. All job postings were filtered by date: January 2019. Techniques used were tokenization, stemming, lemmatization, n-gram, and so on.
+# Interactive data visualization using Shiny App in R
+In this project, I created a personal finance dashboard entirely in R.
+This Shiny application can receive user input from the client web browser
 
-[Click here to see the website project](https://saulventura.github.io/Text-Analytics-Mining/)
+[Click here to see the App](https://saulventura.shinyapps.io/Stock-Market-App/)
