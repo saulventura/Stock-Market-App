@@ -7,3 +7,5 @@ This Shiny application can receive user-input from the client web browser. The s
 This app was deployed to shinyapps.io, a platform as a service (PaaS) for hosting Shiny web apps.
 
 [Click here to see the App](https://saulventura.shinyapps.io/Stock-Market-App/)
+
+![Demo](https://github.com/saulventura/AWS-Image-Analytics/blob/master/demo.gif)
