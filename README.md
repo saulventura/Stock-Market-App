@@ -8,4 +8,4 @@ This app was deployed to shinyapps.io, a platform as a service (PaaS) for hostin
 
 [Click here to see the App](https://saulventura.shinyapps.io/Stock-Market-App/)
 
-![Demo](https://github.com/saulventura/AWS-Image-Analytics/blob/master/demo.gif)
+![Demo](https://github.com/saulventura/Stock-Market-App/blob/master/demo.gif)
